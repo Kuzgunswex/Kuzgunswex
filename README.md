@@ -1,4 +1,4 @@
-<h3 align="center">Hindistan'dan tutkulu bir ön uç geliştiricisi</h3>
+<h3 align="center">Hindistan'dan tutkulu bir ön uç geliştiricis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuzgunswex&label=Profile%20views&color=0e75b6&style=flat" alt="kuzgunswex" /> </p>
 
@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/kuzgunswex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/kuzgunswex" height="30" width="40" /></a>
 <a href="https://twitter.com/420demeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="420demeter" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/420demeter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/420demeter/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/420demeter/" target="blank"><img **align**="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/420demeter/" height="30" width="40" /></a>
 <a href="https://discord.gg/aktizamansugibii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aktizamansugibii" height="30" width="40" /></a> </p>
 <
 
