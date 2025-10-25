@@ -8,13 +8,13 @@
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/kuzgunswex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/kuzgunswex" height="20" width="20" /></a>
+<a href="https://dev.to/https://dev.to/kuzgunswexa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/kuzgunswexa" height="20" width="20" /></a>
 <a href="https://twitter.com/420demeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="420demeter" height="20" width="20" /></a>
 <a href="https://instagram.com/https://www.instagram.com/420demeter/" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/420demeter/" height="20" width="20" /></a>
 <a href="https://discord.gg/aktizamansugibii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aktizamansugibii" height="20" width="20" /></a> </p>
 <
 
-h3 align="left">Kullandığım ve kendimi geliştirdiğim diller:
+h3 **align**="left">Kullandığım ve kendimi geliştirdiğim diller:
 </h3>
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> 
 
@@ -27,4 +27,3 @@ h3 align="left">Kullandığım ve kendimi geliştirdiğim diller:
 alt="kuzgunswex" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuzgunswex&show_icons=true&locale=tr"  /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuzgunswex&"  /></p>
-
