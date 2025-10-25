@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuzgunswex&label=Profile%20views&color=0e75b6&style=flat" alt="kuzgunswex" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuzgunswex" alt="kuzgunswex" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/420demeter" target="blank"><img src="https://img.shields.io/twitter/follow/420demeter?logo=twitter&style=for-the-badge" alt="420demeter" /></a> </p>
 
