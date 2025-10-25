@@ -1,4 +1,4 @@
-<h3 align="center"> Ben Demeter Saygılarımla</h3>
+<h3 align="center">                       bomboo             </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuzgunswex&label=Profile%20views&color=0e75b6&style=flat" alt="kuzgunswex" /> </p>
 
@@ -14,7 +14,7 @@
 <a href="https://discord.gg/aktizamansugibii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aktizamansugibii" height="20" width="20" /></a> </p>
 <
 
-h3 **align**="left">Kullandığım ve kendimi geliştirdiğim diller:
+>Kullandığım ve kendimi geliştirdiğim diller:
 </h3>
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> 
 
@@ -27,3 +27,4 @@ h3 **align**="left">Kullandığım ve kendimi geliştirdiğim diller:
 alt="kuzgunswex" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuzgunswex&show_icons=true&locale=tr"  /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuzgunswex&"  /></p>
+
